@@ -139,10 +139,6 @@
     }
     
     .sidebar-container {
-      /* display: flex;
-      flex: auto;
-      flex-direction: column;
-      align-items: center; */
       margin-top: 2rem;
       flex: 1;
     }
